@@ -31,7 +31,7 @@ Preprocess test data, predict using the trained model, and visualize the results
 ## Program
 #### Name:KARUNIYA M
 #### Register Number: 212223240068
-
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -95,7 +95,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-
+```
 
 ## Output
 
